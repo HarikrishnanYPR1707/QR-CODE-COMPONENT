@@ -2,7 +2,7 @@ import Qr_Image from "../assets/image-qr-code.png";
 
 const CardContainer = () => {
     return (
-        <div className="p-4 bg-white font-Outfit rounded-2xl flex flex-col justify-center items-center scale-110 drop-shadow-xl">
+        <div className="p-4 bg-white font-Outfit rounded-2xl flex flex-col justify-center items-center scale-110 drop-shadow-[0_35px_35px_rgba(0,0,0,0.15)]">
             <img src={Qr_Image} alt="qr-image" className="w-[250px] rounded-lg" />
             <div className="w-[240px] text-center">
                 <h1 className="font-bold text-[18px] text-Dark-blue pt-5 leading-6">
