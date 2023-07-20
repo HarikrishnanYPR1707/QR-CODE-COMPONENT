@@ -15,7 +15,7 @@ In this Challenge form Frontend Mentor I have create a QR Code Component with Vi
 
 ### Screenshot
 
-![](./src/assets/output-ss/image-qr-code.png)
+![](./src/assets/output-ss/Output.png)
 
 ### Links
 
